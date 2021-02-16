@@ -1,0 +1,173 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+
+.bg-1 {
+    background-color: #F0FFF0;
+}
+
+.bg-2 {
+    background-color: #F0FFF0;
+    margin-bottom: 50px;
+    height: 450px;
+}
+
+.bg-3{
+    background: #282531;
+    height: 300px;
+}
+
+.logo{
+    width: 198px;
+    height: 60px;
+}
+
+.banner{
+    margin-top:50px;
+}
+
+.banner img{
+    width: 70%;
+}
+
+
+
+
+
+.p-red{
+    color: #FD511A;
+    margin-top: 50px;
+
+}
+
+.banner-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 70px;
+    color: #000000;
+}
+
+.banner-description{
+    color: #6C6B6B;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+
+}
+
+.title-green{
+    color: #21B573;
+
+}
+
+.get-started{
+    background: #21B573;
+    border-radius: 33px;
+    border-style: none;
+    color: white;
+    width: 153px;
+    height: 43px;
+}
+
+.icon{
+    width: 66px;
+    height: 85px;
+
+}
+
+.courses{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    width: 370px;
+}
+
+.courses img{
+    width: 100%;
+}
+
+.purchase{
+    background: #21B573;
+    border-radius: 33px;
+    border-style: none;
+    color: white;
+    width: 137px;
+    height: 35px;
+}
+
+.info{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 30px;
+    color: #585859;
+}
+
+.info img{
+   height: 24px;
+   width: 24px;
+}
+
+
+
+.section-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    margin-bottom: 70px;
+    margin-top:70px;
+    color: #413960;
+}
+
+.icon-title{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    color: #413960;
+    margin-top: 20px;
+}
+
+.course-icon img{
+    width: 10%;
+}
+
+.icon-description{
+    font-family: Poppins;
+    color: #413960;
+}
+
+.client-review{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.client-image img{
+    width: 25%;
+}
+
+.menu{
+    color:#fff;
+    padding-top: 50px;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.copyright{
+    margin-top: 50px;
+}
+
+.card{
+    border-style: none;
+    padding: 20px;
+
+}
